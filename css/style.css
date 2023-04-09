@@ -1,0 +1,25 @@
+body{
+    background-color: #1c1429;
+    font-family: Montserrat;
+}
+
+.titulo{
+    padding: 5vh;
+}
+
+#cor{
+    background-color: #ccabda;
+    border-radius: 20px;
+    margin-bottom: 5vh;
+    width: 50vw;
+    height: 60vh;
+}
+
+#texto_cores{
+    background-color: #53406e;
+    color: #ffffff;
+    border-radius: 20px;
+    padding: 15px;
+    margin-left: 10px;
+    max-width: 30vw;
+}
